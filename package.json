@@ -18,5 +18,18 @@
   "devDependencies": {
     "@babel/core": "~7.9.0"
   },
-  "private": true
+  "private": true,
+  "name": "tg1-main",
+  "version": "1.0.0",
+  "description": "Front do projeto de conclusão do 6º semestre",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goesrafa/FrontEnd-do-TG.git"
+  },
+  "author": "Rafaela Góes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goesrafa/FrontEnd-do-TG/issues"
+  },
+  "homepage": "https://github.com/goesrafa/FrontEnd-do-TG#readme"
 }
